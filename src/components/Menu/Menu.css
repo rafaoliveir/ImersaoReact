@@ -59,13 +59,21 @@ body {
     }  
 
     @media (max-width: 800px) { 
-          a.ButtonLink {     
+          a.ButtonLink {  
+            color:#F8B700;   
             position: fixed;     
             left: 0;    
             right: 0;    
             bottom: 0;    
-            background: var(--primary);     
+            background: #000;     
             border-radius: 0;    
             border: 0;     
-            text-align: center;   } 
+            text-align: center;
+            border-top: 1px solid #F8B700;   }
+            a.ButtonLink:hover, .ButtonLink:focus {   
+                /* opacity: .5;  */
+                color:#000;
+                background: #F8B700;
+                border-top: 0; 
+                }   
 } 

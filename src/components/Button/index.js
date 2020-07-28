@@ -18,8 +18,8 @@ const Button = styled.button`
     &:hover, 
     &:focus {   
     opacity: .5;
-    color:#9de80d;
-    border: 1px solid #9de80d;  
+    color:#7b2011   ; /*#9de80d;*/
+    border: 1px solid  #f8b700;  
     }  
 
 `;
