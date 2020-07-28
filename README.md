@@ -13,6 +13,9 @@
 <h2>⚛️ Descrição</h2>
 <p>Criação do AluraFlix - uma aplicação web utilizando React, desenvolvida durante a semana da #ImersãoReact da Alura.<p>
 
-
+<br>
+<p align='center'>
+  <img width='600' height='300' src="https://user-images.githubusercontent.com/54906981/88669324-20bd6900-d0ba-11ea-82c4-c00fd1b1e7fa.gif">
+</p>
 <h3>📝 Licença</h3>
 <p>O projeto se encontra sob licença MIT. Para mais detalhes, acesse <a href='LICENSE'>license<a>.</p>
