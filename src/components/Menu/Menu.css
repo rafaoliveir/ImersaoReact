@@ -20,7 +20,7 @@
     padding-left: 5%;   
     padding-right: 5%;  
     background: var(--black);   
-    border-bottom: 2px solid var(--primary);  
+    border-bottom: 1px solid #7b2011;  
 } 
 body {  
     --bodyPaddingTop: 94px;   
@@ -55,6 +55,7 @@ body {
 } 
 .ButtonLink:hover, .ButtonLink:focus {   
     opacity: .5; 
+    color:#1199c5;
     }  
 
     @media (max-width: 800px) { 

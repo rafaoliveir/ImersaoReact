@@ -1,183 +1,167 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "titulo": "Expansões",
+      "link": "https://www.youtube.com/watch?v=s4gBChg6AII",
+      "cor": "#000",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Trailers das Expansões de World of Warcraft",
+        "url": "https://worldofwarcraft.com/pt-br/"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "World of Warcraft: Shadowlands",
+          "url": "https://www.youtube.com/watch?v=s4gBChg6AII"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Classic",
+          "url": "https://www.youtube.com/watch?v=vlVSJ0AvZe0"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "The Burning Crusade",
+          "url": "https://www.youtube.com/watch?v=IBHL_-biMrQ"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Wrath of the Lich King",
+          "url": "https://www.youtube.com/watch?v=BCr7y4SLhck"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Cataclysm",
+          "url": "https://www.youtube.com/watch?v=Wq4Y7ztznKc"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Mists of Pandarias",
+          "url": "https://www.youtube.com/watch?v=wvYXoyxLv64"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Warlords of Draenor",
+          "url": "https://www.youtube.com/watch?v=TLzhlsEFcVQ"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Legion",
+          "url": "https://www.youtube.com/watch?v=eYNCCu0y-Is"
+        },
+        {
+          "titulo": "Battle for Azeroth",
+          "url": "https://www.youtube.com/watch?v=jSJr3dXZfcg"
         }        
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
-        },
-        {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
-        },
-        {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
-        },
-        {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
-        {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "",
+          "url": ""
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
-        },
-        {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
-        },
-        {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
-        },
-        {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "",
+          "url": ""
         }
       ]
     },
     {
-      "titulo": "Filmes",
-      "cor": "orange",
-      "videos": [
-        {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
-        },
-        {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
-        },
-        {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-        },
-        {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
-        }
-      ]
-    },
-    {
-      "titulo": "Games",
-      "cor": "red",
+      "titulo": "Lore",
+      "cor": "#000",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Saiba mais sobre a história de Warcraft",
+        "url": "https://worldofwarcraft.com/pt-br/story"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "World of Warcraft: A História Completa",
+          "url": "https://www.youtube.com/watch?v=mHuw3s29Jc4"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "The (almost) Complete History of World of Warcraft",
+          "url": "https://www.youtube.com/watch?v=EmhO1LldIQw&t=60s"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Warbringers: Sylvanas",
+          "url": "https://www.youtube.com/watch?v=TVp7yLfnmrE"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Warbringers: Azshara",
+          "url": "https://www.youtube.com/watch?v=hndyTy3uiZM"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "World of Warcraft: Illidan Stormrage's Story - All Cinematics",
+          "url": "https://www.youtube.com/watch?v=UeooZNl_tDY"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
+      "titulo": "Raids",
+      "cor": "#000",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Coletânea de gameplays das melhores raids do WoW",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Top 5 World of Warcraft Raid Bosses OF ALL TIME - Method",
+          "url": "https://www.youtube.com/watch?v=GsoVrkXyjNk"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Dragon Soul Raid - Unedited Run",
+          "url": "https://www.youtube.com/watch?v=wp6FUgdW5QQ"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Asmongold's First Crucible of Storms Raid on Heroic Difficulty",
+          "url": "https://www.youtube.com/watch?v=Xl7n6zIGAx0"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "Naxxramas 40 Man Full Clear - Classic",
+          "url": "https://www.youtube.com/watch?v=SoVCxeJQYEU&pbjreload=101"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Icecrown Citadel 25 man",
+          "url": "https://www.youtube.com/watch?v=Ocq4byvypZM"
+        },
+        {
+          "titulo": "Heroic Firelands : Paragon Live",
+          "url": "https://www.youtube.com/watch?v=BE09LA4VeWg"
+        }
+      ]
+    },
+    {
+      "titulo": "PVP",
+      "cor": "#000",
+      "link_extra": {
+        "text": "Player vs Player de World of Warcraft",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "WoW Arena BlizzCon Championship",
+          "url": "https://www.youtube.com/watch?v=5wMnwoCx3Q8"
+        },
+        {
+          "titulo": "The MOST INSANE World PvP in WoW BFA",
+          "url": "https://www.youtube.com/watch?v=yp0FQkZzFv0"
+        },
+        {
+          "titulo": "INCREDIBLE Fire Mage 1v4 Duels!",
+          "url": "https://www.youtube.com/watch?v=XwqZ8HDSu2g"
+        },
+        {
+          "titulo": "BEAST MASTERY HUNTER Arena 2800+ 2v2 ",
+          "url": "https://www.youtube.com/watch?v=PRe4JoE6O0U"
         }
       ]
     }
