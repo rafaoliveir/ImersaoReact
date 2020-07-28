@@ -1,5 +1,5 @@
 ﻿<p align='center'>
-  <img width='350' src="https://user-images.githubusercontent.com/54906981/88561393-b9de7800-d005-11ea-931d-645c12a0653a.png">
+  <img width='350' src="https://user-images.githubusercontent.com/54906981/88610454-1caf2e00-d05d-11ea-8619-03417f7ca0fb.png">
 </p>
 <h1 align='center'>#ImersaoReact</h1>
 
