@@ -39,8 +39,8 @@ body {
 }
 
 .ButtonLink {    
-    color: var(--white);   
-    border: 1px solid var(--white);   
+    color: #F8B700;   
+    border: 1px solid #7b2011;   
     box-sizing: border-box;   
     cursor: pointer;   
     padding: 16px 24px;   
@@ -71,7 +71,7 @@ body {
             text-align: center;
             border-top: 1px solid #F8B700;   }
             a.ButtonLink:hover, .ButtonLink:focus {   
-                /* opacity: .5;  */
+                 opacity: .5;  
                 color:#000;
                 background: #F8B700;
                 border-top: 0; 
