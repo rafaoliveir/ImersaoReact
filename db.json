@@ -30,6 +30,7 @@
         }
       },
       {
+        "id": 4,
          "titulo": "PVP",
         "cor": "#000",
         "link_extra": {
