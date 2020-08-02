@@ -30,11 +30,15 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - React Route
 
 ## ✨ Resultado
-
+<p align='center'>
+   <img width='600' height='300' src="https://user-images.githubusercontent.com/54906981/89128364-97e46a00-d4cb-11ea-9a4d-722ca6f894d9.png">
 <br>
 <p align='center'>
   <img width='600' height='300' src="https://user-images.githubusercontent.com/54906981/88669324-20bd6900-d0ba-11ea-82c4-c00fd1b1e7fa.gif">
 </p>
+<br>
+<p align='center'>
+   <img width='300' src="https://user-images.githubusercontent.com/54906981/89128392-b8142900-d4cb-11ea-9e0c-dfb3f9086ba4.jpeg">
 
 
 ## 💻 Como utilizar
