@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
 
    
  "categorias": [
@@ -38,6 +39,44 @@
           "text": "Player vs Player de World of Warcraft",
           "url": ""
 
+=======
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Expansões",
+      "link": "https://www.youtube.com/watch?v=s4gBChg6AII",
+      "cor": "#000",
+      "link_extra": {
+        "text": "Trailers das Expansões de World of Warcraft",
+        "url": "https://worldofwarcraft.com/pt-br/"
+      }
+    },
+    {
+      "id": 2,
+      "titulo": "Lore",
+      "cor": "#000",
+      "link_extra": {
+        "text": "Saiba mais sobre a história de Warcraft",
+        "url": "https://worldofwarcraft.com/pt-br/story"
+      }
+    },
+    {
+      "id": 3,
+      "titulo": "Raids",
+      "cor": "#000",
+      "link_extra": {
+        "text": "Coletânea de gameplays das melhores raids do WoW",
+        "url": ""
+      }
+    },
+    {
+      "id": 4,
+      "titulo": "PVP",
+      "cor": "#000",
+      "link_extra": {
+        "text": "Player vs Player de World of Warcraft",
+        "url": ""
+>>>>>>> parent of 66c9a63... página de vídeo
       }
     }
     ],
