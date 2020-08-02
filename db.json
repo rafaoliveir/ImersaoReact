@@ -1,43 +1,4 @@
 {
-<<<<<<< HEAD
-  "categorias": [
-    {
-      "id": 1,
-      "titulo": "Expansões",
-      "link": "https://www.youtube.com/watch?v=s4gBChg6AII",
-      "cor": "#20120f",
-      "link_extra": {
-        "text": "Trailers das Expansões de World of Warcraft",
-        "url": "https://worldofwarcraft.com/pt-br/"
-      }
-    },
-    {
-      "id": 2,
-      "titulo": "Lore",
-      "cor": "#20120f",
-      "link_extra": {
-        "text": "Saiba mais sobre a história de Warcraft",
-        "url": "https://worldofwarcraft.com/pt-br/story"
-      }
-    },
-    {
-      "id": 3,
-      "titulo": "Raids",
-      "cor": "#20120f",
-      "link_extra": {
-        "text": "Coletânea de gameplays das melhores raids do WoW",
-        "url": ""
-      }
-    },
-    {
-      "id": 4,
-      "titulo": "PVP",
-      "cor": "#20120f",
-      "link_extra": {
-        "text": "Player vs Player de World of Warcraft",
-        "url": ""
-=======
-   
  "categorias": [
       {
         "id": 1,
@@ -74,7 +35,7 @@
         "link_extra": {
           "text": "Player vs Player de World of Warcraft",
           "url": ""
->>>>>>> parent of e5b70b2... Gerenciamento de videos
+
       }
     }
     ],
@@ -123,8 +84,8 @@
       {
         "id": 8,
         "categoriaId": 1,
-       "titulo": "Warlords of Draenor",
-            "url": "https://www.youtube.com/watch?v=TLzhlsEFcVQ"
+       "titulo": "Legion",
+            "url": "https://www.youtube.com/watch?v=qsBVBPPb2d8"
       },
       {
         "id": 9,
