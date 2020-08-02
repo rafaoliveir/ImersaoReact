@@ -29,7 +29,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - React Slick
 - React Route
 
-## Resultado
+## ✨ Resultado
 
 <br>
 <p align='center'>
