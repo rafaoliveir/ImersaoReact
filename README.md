@@ -1,4 +1,4 @@
-﻿<p align='center'>
+<p align='center'>
   <img width='350' src="https://user-images.githubusercontent.com/54906981/88610454-1caf2e00-d05d-11ea-8619-03417f7ca0fb.png">
 </p>
 <h1 align='center'>#ImersaoReact</h1>
@@ -10,12 +10,46 @@
 
 </p>
 
-<h2>⚛️ Descrição</h2>
-<p>Criação do AluraFlix - uma aplicação web utilizando React, desenvolvida durante a semana da #ImersãoReact da Alura.<p>
+## ⚛️ Descrição 
+
+<p>Criação do AluraFlix - uma aplicação web utilizando React, desenvolvida durante a semana da #ImersãoReact da Alura, baseada na Netflix. <br>
+  
+Com o objetivo de aprimorar os conhecimentos obtidos nas aulas, personalizei o projeto para compartilhar vídeos sobre World of Warcraft, com a criação do **[Warflix](https://warflix.vercel.app)**.
+
+<p>
+
+## 🛠️ Tecnologias 
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- HTML
+- CSS
+- Javascript
+- React
+- React Slick
+- React Route
+
+## Resultado
 
 <br>
 <p align='center'>
   <img width='600' height='300' src="https://user-images.githubusercontent.com/54906981/88669324-20bd6900-d0ba-11ea-82c4-c00fd1b1e7fa.gif">
 </p>
-<h3>📝 Licença</h3>
-<p>O projeto se encontra sob licença MIT. Para mais detalhes, acesse <a href='LICENSE'>license<a>.</p>
+
+
+## 💻 Como utilizar
+
+    # Clone esse repositório
+    $ git clone https://github.com/rafaoliveir/ImersaoReact.git
+    
+    # Instalar dependências
+    $ npm install
+    
+    # Executar
+    $ npm start
+
+
+
+  
+###### O [Warflix](https://warflix.vercel.app) foi criado por [Rafaela Oliveira](https://github.com/rafaoliveir) durante a Imersão React realizada pela Alura. 
+ 
