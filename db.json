@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "categorias": [
     {
       "id": 1,
@@ -35,158 +36,191 @@
       "link_extra": {
         "text": "Player vs Player de World of Warcraft",
         "url": ""
+=======
+   
+ "categorias": [
+      {
+        "id": 1,
+         "titulo": "Expansões",
+        "link": "https://www.youtube.com/watch?v=s4gBChg6AII",
+        "cor": "#000",
+        "link_extra": {
+          "text": "Trailers das Expansões de World of Warcraft",
+          "url": "https://worldofwarcraft.com/pt-br/"
+        }
+      },
+      {
+        "id": 2,
+         "titulo": "Lore",
+        "cor": "#000",
+        "link_extra": {
+          "text": "Saiba mais sobre a história de Warcraft",
+          "url": "https://worldofwarcraft.com/pt-br/story"
+        }
+      },
+      {
+        "id": 3,
+       "titulo": "Raids",
+        "cor": "#000",
+        "link_extra": {
+          "text": "Coletânea de gameplays das melhores raids do WoW",
+          "url": ""
+        }
+      },
+      {
+        "id": 4,
+         "titulo": "PVP",
+        "cor": "#000",
+        "link_extra": {
+          "text": "Player vs Player de World of Warcraft",
+          "url": ""
+>>>>>>> parent of e5b70b2... Gerenciamento de videos
       }
     }
-  ],
-  "videos": [
-    {
-      "id": 1,
-      "categoriaId": 1,
-      "titulo": "World of Warcraft: Shadowlands",
-      "url": "https://www.youtube.com/watch?v=s4gBChg6AII"
-    },
-    {
-      "id": 2,
-      "categoriaId": 1,
-      "titulo": "Classic",
-      "url": "https://www.youtube.com/watch?v=vlVSJ0AvZe0"
-    },
-    {
-      "id": 3,
-      "categoriaId": 1,
-      "titulo": "The Burning Crusade",
-      "url": "https://www.youtube.com/watch?v=IBHL_-biMrQ"
-    },
-    {
-      "id": 4,
-      "titulo": "Wrath of the Lich King",
-      "url": "https://www.youtube.com/watch?v=BCr7y4SLhck"
-    },
-    {
-      "id": 5,
-      "categoriaId": 1,
-      "titulo": "Cataclysm",
-      "url": "https://www.youtube.com/watch?v=Wq4Y7ztznKc"
-    },
-    {
-      "id": 6,
-      "categoriaId": 1,
-      "titulo": "Mists of Pandarias",
-      "url": "https://www.youtube.com/watch?v=wvYXoyxLv64"
-    },
-    {
-      "id": 7,
-      "categoriaId": 1,
-      "titulo": "Warlords of Draenor",
-      "url": "https://www.youtube.com/watch?v=TLzhlsEFcVQ"
-    },
-    {
-      "id": 8,
-      "categoriaId": 1,
-      "titulo": "Legion",
-      "url": "https://www.youtube.com/watch?v=qsBVBPPb2d8"
-    },
-    {
-      "id": 9,
-      "categoriaId": 1,
-      "titulo": "Battle for Azeroth",
-      "url": "https://www.youtube.com/watch?v=jSJr3dXZfcg"
-    },
-    {
-      "id": 10,
-      "categoriaId": 2,
-      "titulo": "World of Warcraft: A História Completa",
-      "url": "https://www.youtube.com/watch?v=mHuw3s29Jc4"
-    },
-    {
-      "id": 11,
-      "categoriaId": 2,
-      "titulo": "The (almost) Complete History of World of Warcraft",
-      "url": "https://www.youtube.com/watch?v=EmhO1LldIQw&t=60s"
-    },
-    {
-      "id": 12,
-      "categoriaId": 2,
-      "titulo": "Warbringers: Sylvanas",
-      "url": "https://www.youtube.com/watch?v=TVp7yLfnmrE"
-    },
-    {
-      "id": 13,
-      "categoriaId": 2,
-      "titulo": "Warbringers: Azshara",
-      "url": "https://www.youtube.com/watch?v=hndyTy3uiZM"
-    },
-    {
-      "id": 14,
-      "categoriaId": 2,
-      "titulo": "World of Warcraft: Illidan Stormrage's Story - All Cinematics",
-      "url": "https://www.youtube.com/watch?v=UeooZNl_tDY"
-    },
-    {
-      "id": 15,
-      "categoriaId": 3,
-      "titulo": "Top 5 World of Warcraft Raid Bosses OF ALL TIME - Method",
-      "url": "https://www.youtube.com/watch?v=GsoVrkXyjNk"
-    },
-    {
-      "id": 16,
-      "categoriaId": 3,
-      "titulo": "Dragon Soul Raid - Unedited Run",
-      "url": "https://www.youtube.com/watch?v=wp6FUgdW5QQ"
-    },
-    {
-      "id": 17,
-      "categoriaId": 3,
-      "titulo": "Asmongold's First Crucible of Storms Raid on Heroic Difficulty",
-      "url": "https://www.youtube.com/watch?v=Xl7n6zIGAx0"
-    },
-    {
-      "id": 18,
-      "categoriaId": 3,
-      "titulo": "Naxxramas 40 Man Full Clear - Classic",
-      "url": "https://www.youtube.com/watch?v=SoVCxeJQYEU&pbjreload=101"
-    },
-    {
-      "id": 19,
-      "categoriaId": 3,
-      "titulo": "Icecrown Citadel 25 man",
-      "url": "https://www.youtube.com/watch?v=Ocq4byvypZM"
-    },
-    {
-      "id": 20,
-      "categoriaId": 3,
-      "titulo": "Heroic Firelands : Paragon Live",
-      "url": "https://www.youtube.com/watch?v=BE09LA4VeWg"
-    },
-    {
-      "id": 21,
-      "categoriaId": 4,
-      "titulo": "WoW Arena BlizzCon Championship",
-      "url": "https://www.youtube.com/watch?v=5wMnwoCx3Q8"
-    },
-    {
-      "id": 22,
-      "categoriaId": 4,
-      "titulo": "The MOST INSANE World PvP in WoW BFA",
-      "url": "https://www.youtube.com/watch?v=yp0FQkZzFv0"
-    },
-    {
-      "id": 23,
-      "categoriaId": 4,
-      "titulo": "INCREDIBLE Fire Mage 1v4 Duels!",
-      "url": "https://www.youtube.com/watch?v=XwqZ8HDSu2g"
-    },
-    {
-      "id": 24,
-      "categoriaId": 4,
-      "titulo": "BEAST MASTERY HUNTER Arena 2800+ 2v2 ",
-      "url": "https://www.youtube.com/watch?v=PRe4JoE6O0U"
-    },
-    {
-      "titulo": "Shadowlands Affliction Warlock PvP",
-      "url": "https://www.youtube.com/watch?v=ZcJU88Tpsi8",
-      "categoriaId": 4,
-      "id": 25
-    }
-  ]
-}
+    ],
+    "videos": [
+      {
+        "id": 1,
+        "categoriaId": 1,
+        "titulo": "World of Warcraft: Shadowlands",
+        "url": "https://www.youtube.com/watch?v=s4gBChg6AII"
+      },
+      {
+        "id": 2,
+        "categoriaId": 1,
+         "titulo": "Classic",
+         "url": "https://www.youtube.com/watch?v=vlVSJ0AvZe0"
+      },
+      {
+        "id": 3,
+        "categoriaId": 1,
+         "titulo": "The Burning Crusade",
+            "url": "https://www.youtube.com/watch?v=IBHL_-biMrQ"
+      },
+      {
+        "id": 4,
+         "titulo": "Wrath of the Lich King",
+            "url": "https://www.youtube.com/watch?v=BCr7y4SLhck"
+      },
+      {
+        "id": 5,
+        "categoriaId": 1,
+         "titulo": "Cataclysm",
+            "url": "https://www.youtube.com/watch?v=Wq4Y7ztznKc"
+      },
+      {
+        "id": 6,
+        "categoriaId": 1,
+         "titulo": "Mists of Pandarias",
+            "url": "https://www.youtube.com/watch?v=wvYXoyxLv64"
+      },
+      {
+        "id": 7,
+        "categoriaId": 1,
+        "titulo": "Warlords of Draenor",
+            "url": "https://www.youtube.com/watch?v=TLzhlsEFcVQ"
+      },
+      {
+        "id": 8,
+        "categoriaId": 1,
+       "titulo": "Warlords of Draenor",
+            "url": "https://www.youtube.com/watch?v=TLzhlsEFcVQ"
+      },
+      {
+        "id": 9,
+        "categoriaId": 1,
+        "titulo": "Battle for Azeroth",
+            "url": "https://www.youtube.com/watch?v=jSJr3dXZfcg"
+      },
+      {
+        "id": 10,
+        "categoriaId": 2,
+         "titulo": "World of Warcraft: A História Completa",
+            "url": "https://www.youtube.com/watch?v=mHuw3s29Jc4"
+      },
+      {
+        "id": 11,
+        "categoriaId": 2,
+        "titulo": "The (almost) Complete History of World of Warcraft",
+            "url": "https://www.youtube.com/watch?v=EmhO1LldIQw&t=60s"
+      },
+      {
+        "id": 12,
+        "categoriaId": 2,
+         "titulo": "Warbringers: Sylvanas",
+            "url": "https://www.youtube.com/watch?v=TVp7yLfnmrE"
+      },
+      {
+        "id": 13,
+        "categoriaId": 2,
+          "titulo": "Warbringers: Azshara",
+            "url": "https://www.youtube.com/watch?v=hndyTy3uiZM"
+      },
+      {
+        "id": 14,
+        "categoriaId": 2,
+         "titulo": "World of Warcraft: Illidan Stormrage's Story - All Cinematics",
+            "url": "https://www.youtube.com/watch?v=UeooZNl_tDY"
+      },
+      {
+        "id": 15,
+        "categoriaId": 3,
+        "titulo": "Top 5 World of Warcraft Raid Bosses OF ALL TIME - Method",
+            "url": "https://www.youtube.com/watch?v=GsoVrkXyjNk"
+      },
+      {
+        "id": 16,
+        "categoriaId": 3,
+        "titulo": "Dragon Soul Raid - Unedited Run",
+            "url": "https://www.youtube.com/watch?v=wp6FUgdW5QQ"
+      },
+      {
+        "id": 17,
+        "categoriaId": 3,
+        "titulo": "Asmongold's First Crucible of Storms Raid on Heroic Difficulty",
+            "url": "https://www.youtube.com/watch?v=Xl7n6zIGAx0"
+      },
+      {
+        "id": 18,
+        "categoriaId": 3,
+       "titulo": "Naxxramas 40 Man Full Clear - Classic",
+            "url": "https://www.youtube.com/watch?v=SoVCxeJQYEU&pbjreload=101"
+      },
+      {
+        "id": 19,
+        "categoriaId": 3,
+         "titulo": "Icecrown Citadel 25 man",
+            "url": "https://www.youtube.com/watch?v=Ocq4byvypZM"
+      },
+      {
+        "id": 20,
+        "categoriaId": 3,
+       "titulo": "Heroic Firelands : Paragon Live",
+            "url": "https://www.youtube.com/watch?v=BE09LA4VeWg"
+      },
+      {
+        "id": 21,
+        "categoriaId": 4,
+        "titulo": "WoW Arena BlizzCon Championship",
+            "url": "https://www.youtube.com/watch?v=5wMnwoCx3Q8"
+      },
+      {
+        "id": 22,
+        "categoriaId": 4,
+        "titulo": "The MOST INSANE World PvP in WoW BFA",
+            "url": "https://www.youtube.com/watch?v=yp0FQkZzFv0"
+      },
+      {
+        "id": 23,
+        "categoriaId": 4,
+       "titulo": "INCREDIBLE Fire Mage 1v4 Duels!",
+            "url": "https://www.youtube.com/watch?v=XwqZ8HDSu2g"
+      },
+      {
+        "id": 24,
+        "categoriaId": 4,
+       "titulo": "BEAST MASTERY HUNTER Arena 2800+ 2v2 ",
+            "url": "https://www.youtube.com/watch?v=PRe4JoE6O0U"
+      }
+    ]
+  }
